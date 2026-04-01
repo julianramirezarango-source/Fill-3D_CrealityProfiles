@@ -2,6 +2,10 @@
 
 Official filament profiles for [fill-3d.com](https://fill-3d.com) — optimized for Creality printers running Creality Print.
 
+## Download All Profiles
+
+[**Download all profiles (ZIP)**](https://raw.githubusercontent.com/julianramirezarango-source/Fill-3D_CrealityProfiles/main/Fill-3D%20Creality%20Print%20Profiles.zip)
+
 ## Download by Material
 
 | Material | Download |
